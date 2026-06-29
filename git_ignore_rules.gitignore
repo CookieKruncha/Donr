@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Environment variables (NEVER commit this to GitHub)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
